@@ -18,5 +18,12 @@ Python (Pandas, SQLAlchemy), MySQL, Matplotlib / Power BI
 
 python src/etl\_runner.py sales\_sample.csv
 
+## 🖼 Results
+
+Below is the revenue by region bar chart generated from the MySQL data:
+
+![Revenue Chart](images/revenue_chart.png)
+
+
 
 
