@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,total_price,region,salesperson
+O1,2024-01-05,C001,P01,Laptop,Electronics,2,50000,,North,John
+O2,2024-01-06,C002,P02,Mobile,Electronics,3,20000,,South,Jane
+O3,2024-01-06,C003,P03,Headphones,Accessories,5,1500,,West,Sam
+O4,2024-01-07,C004,P04,Tablet,Electronics,1,25000,,East,Sara
+O5,2024-01-08,C005,P05,Mouse,Accessories,4,500,,North,John
